@@ -1,6 +1,6 @@
 # Cisco IOS Device Management GUI
 
-This project is a graphical user interface (GUI) application built using Tkinter, designed to manage Cisco IOS devices through network commands. The application allows users to execute various network commands, monitor device interfaces, calculate subnetting details, and maintain saved connection details.
+This project is a graphical user interface (GUI) application built using Tkinter, designed to manage Cisco IOS devices through network commands. The application allows users to execute various network commands, monitor device interfaces, calculate subnetting details, and maintain saved connection details. NOTE: This is beta and still updates are going on 
 
 ## Features
 
