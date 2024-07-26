@@ -47,7 +47,7 @@ This project is a graphical user interface (GUI) application built using Tkinter
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/nerdygeek2127/cisco-ios-management-gui.git
+    git clone https://github.com/nerdygeek2127/Python-Networking.git
     cd cisco-ios-management-gui
     ```
 
